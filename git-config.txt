@@ -1,0 +1,16 @@
+https://github.com/settings/tokens
+
+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
+
+
+mkdir ms-config-repo
+cd ms-config-repo
+git init
+git remote add origin https://github.com/vconte01/ms-config-repo.git
+git branch -M master
+git add .
+git commit
+git push -u origin master
+
+http://localhost:8888/student-service/default
+
